@@ -1,4 +1,3 @@
-import math
 infile=open('high_temperatures.txt','r')
 days=infile.readlines()
 max=0
